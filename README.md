@@ -42,8 +42,7 @@ proyecto-iot/
 │   ├── schema.sql                          # Script de creación de base de datos y tablas
 │   └── data.sql                            # Datos de prueba
 ├── docs/
-│   ├── diagrama_uml.png                    # Diagrama de clases UML
-│   └── informe_tecnico.pdf                 # Informe del proyecto (6-8 páginas)
+│   └── diagrama_uml.png                    # Diagrama de clases UML
 └── README.md                               # Este archivo
 ```
 
